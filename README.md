@@ -1,5 +1,4 @@
 # landing-dynamic-page
-# Landing Page project
 # front-End development project 
 
 # started from 4/7/2020 and ended at 5/7/2020
