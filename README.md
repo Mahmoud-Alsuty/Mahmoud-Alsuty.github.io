@@ -1,4 +1,4 @@
-        # welcome!👋
+   # welcome!👋
 
 # landing-dynamic-page
 # front-End development project 
@@ -12,4 +12,4 @@ This project has been made by Dr Mahmoud Alsuty.
  
 # I hope it works perfectly..
  
-         # Bye 🖐
+   # Bye 🖐
